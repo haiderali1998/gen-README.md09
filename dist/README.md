@@ -2,7 +2,7 @@
   
   https://shields.io/badge/license-undefined-blue.svg
 
-  # jbs
+  # My project
 
   ![License](https://img.shields.io/badge/License-undefined-blue)
   
@@ -17,15 +17,15 @@
   * [Contact Details](#email)
    
   ## GitHub Username:
-  ahus
+  haiderali1998
   
   <a name='description'></a>
   ## Description
-  djwan
+  This is my project
 
   <a name='repository'></a>
   ## Usage
-  nkda
+  Nothing
 
   <a name='install'></a>
   ## Installation
@@ -33,7 +33,7 @@
 
   <a name='tests'></a>
   ## Tests
-  ndw
+  npm test
 
   <a name='license'></a>
   ## License
@@ -41,7 +41,7 @@
 
   <a name='contribute'></a>
   ## Contributors
-  snkd
+  Nothing
   
   ## Contact Details
   Contact me on undefined
